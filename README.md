@@ -1,4 +1,4 @@
-# 🎬 Movie Wave
+# 🎬 Movie Wave using Flutter and TMDB API
 
 Welcome to **Movie Wave**! This project is a Flutter application designed to provide users with the latest information on movies, including ratings, reviews, and more.
 
